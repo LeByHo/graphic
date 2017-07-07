@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+c:\users\이병호\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(880): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+c:\users\이병호\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(880): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\이병호\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(880): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\이병호\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(880): warning C4101: 'har' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication1.vcxproj -> C:\Users\이병호\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\이병호\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
